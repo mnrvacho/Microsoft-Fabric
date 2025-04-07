@@ -1,4 +1,4 @@
-# [Project Moo] Fabric
+# [Project Moo] Microsoft Fabric
 
 ## Hands-on Lab 개요
 
